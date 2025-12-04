@@ -3,7 +3,7 @@
 %define devname %mklibname hyprwire -d
 
 Name:		hyprwire
-Version:	0.2.0
+Version:	0.2.1
 Release:	1
 Source0:        https://github.com/hyprwm/hyprwire/archive/v%{version}/%{name}-v%{version}.tar.gz
 Summary:        A fast and consistent wire protocol for IPC
